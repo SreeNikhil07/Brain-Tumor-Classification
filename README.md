@@ -21,7 +21,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>Download the code from github</li><li>Download all above mentioned dependencies.</li><li>Open downloaded folder inside jupyter notebook.</li><li>Now cells as per your requirements.</li></ol>
+<ol><li>Download all above mentioned dependencies.</li><li>Open downloaded folder inside jupyter notebook.</li><li>Now cells as per your requirements.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
